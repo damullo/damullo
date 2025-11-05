@@ -21,6 +21,10 @@ No comments yet! TOP SECRET :)
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[Hetzner](https://www.hetzner.com/)
+[Digitalocean](https://digitalocean.com/)
+[Oracle](https://oracle.com/)
+[Contabo](https://contabo.com/)
 
 ### Container & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
